@@ -15,8 +15,12 @@ public class ListenZusammenfassen {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.print("hi");
-    }
-    
+        String[] herelisteFarben  = {"blau", "gelb", "grün", "schwarz", "pink"};
+        int [] listeNummern     = {1,2,3,4,5,6,7,8};
+        String [] listeMaterialien = {"Beton", "Holz", "Stein"};
+        String [] listeNamen       = {"Susi", "Klara", "Claire", "Moni"};
+        
+        
+        
+    }    
 }
